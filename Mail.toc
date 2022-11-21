@@ -1,6 +1,8 @@
 ﻿## Interface: 11200
 ## Title: Mail
+## Title-ruRU: Почта
 ## Notes: Mailbox enhancement
+## Notes-ruRU: Улучшение почтового ящика
 ## Author: shirsig
 ## SavedVariablesPerCharacter: Mail_To
 ## SavedVariables: Mail_AutoCompleteNames
